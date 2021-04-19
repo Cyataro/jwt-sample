@@ -7,7 +7,7 @@
   "private": true,
   "dependencies": {
     "fs": "^0.0.1-security",
-    "jose": "^1.10.1",
+    "jose": "^1.28.1",
     "jsonwebtoken": "^8.5.1"
   },
   "devDependencies": {
